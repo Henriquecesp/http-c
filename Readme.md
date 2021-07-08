@@ -10,23 +10,26 @@ Codename:       focal
 
 ## 📜 Instruções
 1. Instale o `make`.
-2. Clone o repositorio
+2. Clone o repositorio com o comando:
+```bash
+git clone https://github.com/Henriquecesp/http-c.git
+```
 
 3. Na pasta do projeto clonado rode o comando `make`:
 
-	```bash
-	make
-	```
+```bash
+make
+```
 4. Rode o servidor com:
 
-	```
-	./http-server
-	```
+```
+./http-server
+```
 5. A aplicação estará disponivel em
 
-	```bash
-    http://localhost:3000/
-	```
+```bash
+http://localhost:3000/
+```
 
 ## 🚀 Features
 - Aceita requisições GET e HEAD.
